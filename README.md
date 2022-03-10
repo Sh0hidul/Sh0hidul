@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sh0hidul Haque
+- 👋 Hi, I’m @Shohidul Haque
 - 👀 I’m interested in Data Analytics/Data science role
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on Data science project
-- 📫 How to reach me ...
+- 📫 You can reach me by shohidm1985@gmail.com 
 
 <!---
 Sh0hidul/Sh0hidul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
